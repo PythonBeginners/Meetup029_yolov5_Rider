@@ -8,6 +8,6 @@ chromedriverのインストールをどうお願いするかが問題(16.7MBあ�
 
 
 スクレイピング方法:
-1.したのURLからchromedriverをinstall(googlechromeとバージョンを合わせてください)
-    https://sites.google.com/a/chromium.org/chromedriver/downloads
+1.したのURLからchromedriverをinstall(googlechromeとバージョンを合わせてください)   
+    https://sites.google.com/a/chromium.org/chromedriver/downloads   
 2.pip install selenium
