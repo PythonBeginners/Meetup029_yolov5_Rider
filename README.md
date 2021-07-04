@@ -2,7 +2,7 @@
 
 PythonBeginnersOkinawa 29 の資料
 
-スクレイピング: rider_scraping.ipynb
+スクレイピング: rider_scraping.ipynb    
 yolo学習: 01_yolov5_training.ipynb
 
 
